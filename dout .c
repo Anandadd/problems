@@ -47,4 +47,5 @@ main()
     scanf("%d%d",&x,&y);
     (x>y)? printf("y is smaller no.%d",y):(y>x) printf("x is smaller no. %d",x);
     default : printf("invalid choice");
+              fjggjgffg
 }
